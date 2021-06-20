@@ -1,0 +1,10 @@
+
+body {
+    background-color:#23706b;
+}
+#myImage {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  }
